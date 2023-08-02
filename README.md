@@ -1,9 +1,8 @@
-<h1 align="center">Hi Everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px"></h1>
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi Everyone <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"></h1>
 
 <!-- Bio -->
-Hi everyone, my name is `Aizar Rahima`
+
+Hi everyone, my name is `Aizar Rahima Suprayitno`. I'm a `fresh graduate from Vocational High School Telkom Malang`. I'm currently open to work as `Frontend Web Developer`.
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,7 +13,6 @@ Hi everyone, my name is `Aizar Rahima`
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aizarrahima&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aizarrahima&layout=compact&theme=tokyonight"/>
 </div>
-
 
   </br>
 <!-- Language -->  
@@ -32,10 +30,10 @@ Hi everyone, my name is `Aizar Rahima`
   </br>
 <div align="center"> 
   <img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" />
-</div>  
+</div>
 
 <br><br><br>
 ![profile](https://komarev.com/ghpvc/?username=Aizarrahima&color=blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aizarrahima&color=blue)
+
 <!--
 **Aizarrahima/Aizarrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
