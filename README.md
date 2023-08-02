@@ -37,10 +37,9 @@ I have experience to develop `Frontend Website` using `React JS` framework and d
 
 [![Gmail Badge](https://img.shields.io/badge/-aizar.works@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:aizar.works@gmail.com)](mailto:aizar.works@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-aizarrahima-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/aizarrahima/)](https://www.instagram.com/aizarrahima/)
-[![Linkedin Badge](https://img.shields.io/badge/-Aizar%Rahima-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)](https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aizar-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)](https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)
 
-<br>
-![profile](https://komarev.com/ghpvc/?username=Aizarrahima&color=blue)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aizarrahima&label=Profile%20views&color=0e75b6&style=flat" alt="Aizarrahima" /> </p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary) -->
 <!--
 **Aizarrahima/Aizarrahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
