@@ -3,6 +3,7 @@
 <!-- Bio -->
 
 Hi everyone, my name is `Aizar Rahima Suprayitno`. I'm a `fresh graduate from Vocational High School Telkom Malang`. I'm currently open to work as `Frontend Web Developer`.
+I have experience to develop `Frontend Website` using `React JS` framework and doing unit test using `Jest`.
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -31,6 +32,12 @@ Hi everyone, my name is `Aizar Rahima Suprayitno`. I'm a `fresh graduate from Vo
 <div align="center"> 
   <img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" />
 </div>
+
+## You can Reach me at 📫:
+
+[![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:aizar.works@gmail.com)](mailto:aizar.works@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/aizarrahima/)](https://www.instagram.com/aizarrahima/)
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)](https://www.linkedin.com/in/aizar-rahima-suprayitno-953048212/)
 
 <br><br><br>
 ![profile](https://komarev.com/ghpvc/?username=Aizarrahima&color=blue)
